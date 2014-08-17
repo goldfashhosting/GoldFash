@@ -3,7 +3,7 @@
 Plugin Name: GoldFash
 Plugin URL: https://goldfash.com:443/plugins
 Description: A Required Sync Plugin to Access any GoldFash App
-Version: 0.1
+Version: 1.0
 Author: GoldFash Design
 Author URI:        https://goldfash.com:443/
 Contributors:      raceanf
